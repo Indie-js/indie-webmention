@@ -1,0 +1,12 @@
+{
+  "name": "indie-webmention",
+  "version": "0.0.1",
+  "description": "Node.js Framework for constructing IndieWeb-compatible apps and websites",
+  "author": "Michael Owens <mk@mowens.com> (http://mowens.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Indie-js/indie-webmention.git"
+  },
+  "main": "./lib/indie-webmention",
+  "keywords": ["indieweb", "indie", "indieprofile", "indieauth", "framework", "identity"]
+}
